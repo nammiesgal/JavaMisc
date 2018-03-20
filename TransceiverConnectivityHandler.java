@@ -52,7 +52,7 @@ import java.util.TreeSet;
  * If the path trace lands on a Transceiver, the trace can't continue through as
  * it isn't possible to determine where or if the signal continues from there.
  *
- * @author Cheryl Long
+ * @author 
  */
 public class TransceiverConnectivityHandler extends CellConnectivityHelper
 {

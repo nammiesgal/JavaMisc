@@ -30,7 +30,7 @@ import java.util.List;
 
 /**
  *
- * @author Cheryl Long
+ * @author 
  */
 public class CellConnectivityHandler extends CellConnectivityHelper
 {

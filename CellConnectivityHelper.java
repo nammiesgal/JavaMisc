@@ -31,7 +31,7 @@ import java.util.Set;
 
 /**
  *
- * @author Cheryl Long
+ * @author 
  */
 public abstract class CellConnectivityHelper
 {
